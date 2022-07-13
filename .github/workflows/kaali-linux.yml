@@ -1,7 +1,7 @@
 name: Kaali-Linux
 
 on:
-    push: #ab
+    push: #abc
     workflow_dispatch:
     
 jobs:
